@@ -1,8 +1,8 @@
 # ETL
-Task One: Building an ETL pipeline to support our Applied Data Scientists
-Transforming the raw data into the features.
-Data files:
-•	accounts.csv: Contains account information for our customers.
+Task One: Building an ETL pipeline to support our Applied Data Scientists\
+Transforming the raw data into the features.\
+Data files:\
+•	accounts.csv: Contains account information for our customers.\
 •	skus.csv: Contains the details about our product lines.
 •	invoices.csv: Contains the invoices issued to each account.
 •	invoice_line_items.csv: Contains the details of the SKUs sold on each invoice.
